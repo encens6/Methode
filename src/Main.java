@@ -56,6 +56,7 @@ public class Main {
 
     public static void task3() {
         System.out.println("Task 3: ");
+        System.out.println();
 
         String fullName = "Ivanov Sémyon Sémyonovich";
         fullName = fullName.replace("é", "e");
